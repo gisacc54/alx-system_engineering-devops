@@ -1,3 +1,1 @@
-#All file in my project
-
--0-hello_world :- this file print hell world 
+0x02. Shell, I/O Redirections and filters
